@@ -1,7 +1,6 @@
 #include <stdio.h>
-
 int main() {
     printf("Do Trong Phuc\n");
-    printf("PS51890");
+    printf("PS51890\n");
     return 0;
 }
